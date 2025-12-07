@@ -1,2 +1,5 @@
 ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 1,task,18e94d9,closed,Initial frame and button,,Yi Jun,Dec-7,Dec-4,,
+2,task,b8a6a59,closed,UI update,,Yi Jun,Dec-7,Dec-5,,
+3,task,39cd593,closed,Complete display,,Yi Jun,Dec-7,Dec-6,,
+4,task,92e04df,closed,Panel and utility,,Yi Jun,Dec-7,Dec-6,,
